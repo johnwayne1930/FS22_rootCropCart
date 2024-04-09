@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+	<author>johnwayne1930</author>
+	<version>1.0.0.0</version>
+	
+	<title>
+		<en>Root Crop Cart Plus</en>
+	</title>
+	
+	<description>
+		<en><![CDATA[Stock transfer trailer with filltype carrot parsnip beetroot added for Premium Expansion.
+
+Amitytech Beet Cart 
+Price: 135,000 $
+Fillvolume: 45,000 L
+Filltype: sugarbeet carrot parsnip beetroot
+
+Bergmann RRW 500 
+Price: 137,500 $
+Fillvolume: 50,700 L
+Filltype: sugarbeet carrot parsnip beetroot
+]]></en>
+		<de><![CDATA[Stock Überladewagen mit Fülltyp Karotten Pastinaken Rote-Beete für die Premium Expansion.
+ 
+Amitytech Beet Cart 
+Preis: 135.000 €
+Füllvolumen: 45.000 L
+Fülltyp: Zuckerrüben Karotten Pastinaken Rote-Beete
+
+Bergmann RRW 500 
+Preis: 137.500 €
+Füllvolumen: 50.700 L
+Fülltyp: Zuckerrüben Karotten Pastinaken Rote-Beete
+]]></de>
+	</description>
+	
+	<iconFilename>icon_rootCropCart.dds</iconFilename>
+	<multiplayer supported="true"/>
+	
+	 <storeItems>
+		<storeItem xmlFilename="amityTech/beetCart/beetCartPlus.xml"/>
+		<storeItem xmlFilename="bergmann/rrw500/rrw500Plus.xml"/>
+	</storeItems>
+</modDesc>

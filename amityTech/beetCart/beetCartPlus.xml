@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<vehicle type="augerWagon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/vehicle.xsd">
+    <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
+
+    <parentFile xmlFilename="$data/vehicles/amityTech/beetCart/beetCart.xml">
+        <attributes>
+            <set path="vehicle.storeData.name" value="Beet Cart Plus"/>
+            <set path="vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration.fillUnits.fillUnit(0)#fillTypes" value="SUGARBEET CARROT PARSNIP BEETROOT"/>
+         </attributes>
+    </parentFile>
+
+    <!-- ONLY FOR ICON GENERATION -->
+    <storeData>
+        <name>Beet Cart Plus</name>
+        <image>$data/vehicles/amityTech/beetCart/store_beetCart.png</image>
+        <brand>AMITYTECH</brand>
+        <category>augerWagons</category>
+    </storeData>
+</vehicle>
